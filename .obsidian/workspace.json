@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "05e3eb4d77572206",
+    "type": "split",
+    "children": [
+      {
+        "id": "f54cb81ac2c7053a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d8e09907d9c0afa",
+            "type": "leaf",
+            "state": {
+              "type": "audio",
+              "state": {
+                "file": "Вдохновения/Музыка/Bloodborne OST - Laurence, the First Vicar.mp3"
+              },
+              "icon": "lucide-file-audio",
+              "title": "Bloodborne OST - Laurence, the First Vicar"
+            }
+          },
+          {
+            "id": "db34e18d6a7cc3cd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1e2ad7abc465a240",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7437a06a84dff78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a523dcfedfe6020d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "30d6f68b5fcd1a8c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "c95809a859826550",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "61acde2091945157",
+    "type": "split",
+    "children": [
+      {
+        "id": "852f2b6bfacfff64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cea6f0e7e99a3b54",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Календарь.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Календарь"
+            }
+          },
+          {
+            "id": "f6ade29b37fcbffe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Календарь.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Календарь"
+            }
+          },
+          {
+            "id": "d02722ff8b132703",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "1444f028b0793868",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Календарь.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура Календарь"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "7d8e09907d9c0afa",
+  "lastOpenFiles": [
+    "Забвенное поле.md",
+    "Сонная Завеса.md",
+    "Базовая информация.md",
+    "Вдохновения/Арты/Veildernam/titanilla-pizvor-bb2-veildernam.jpg",
+    "Вдохновения/Арты/Veildernam/titanilla-pizvor-bb2-pthumerian-noble.jpg",
+    "Вдохновения/Арты/Veildernam/titanilla-pizvor-bb2-lost-servant.jpg",
+    "Вдохновения/Арты/Veildernam/titanilla-pizvor-bb2-humming-lady.jpg",
+    "Вдохновения/Арты/Veildernam/titanilla-pizvor-bb2-veildernam-concept (1).jpg",
+    "Вдохновения/Арты/Veildernam.md",
+    "Map 1st version (ChatGPT).png",
+    "Вдохновения/Арты/Собратья Луны (Dead Space) - Концеп-Арт.png",
+    "Какой-нибудь важный человеческий историк.md",
+    "Вдохновения/Арты/Veildernam/titanilla-pizvor-bb2-veildernam-enemies.jpg",
+    "Тонанцин.md",
+    "Расы/Эльфы, первенцы Тонана/Скалийя, Прикосновение глубин.md",
+    "Расы/Эльфы, первенцы Тонана/Слёзное Евангелие.md",
+    "Расы/Эльфы, первенцы Тонана/Ана-Риэль, Расщепление Истока.md",
+    "Расы/Эльфы, первенцы Тонана/Эльфы Тонана.md",
+    "Расы/Эхориты, голоса Тонана/Голосовой Архонт.md",
+    "Расы/Эхориты, голоса Тонана/Полифония.md",
+    "Расы/Дварфы.md",
+    "Расы/Люди.md",
+    "Расы/Эхориты, голоса Тонана/Эхориты.md",
+    "Расы",
+    "Л.md",
+    "Расы/Эхориты, голоса Тонана",
+    "Версия I. Церквная охота/Крипта.md",
+    "[].md",
+    "Версия I. Церквная охота/Изображения/Триумф.png",
+    "Версия I. Церквная охота/Изображения/ChatGPT-Картинка.png",
+    "Версия I. Церквная охота/Темнейшая из ночей.md",
+    "Расы/Эльфы, первенцы Тонана",
+    "2025-04-01.md",
+    "Версия I. Церквная охота/Антагонисты кампании.md",
+    "Вдохновения/Арты/Veildernam",
+    "Версия I. Церквная охота/Пророк Азиманди.md",
+    "Версия I. Церквная охота/Архимистик (Архиведущий).md",
+    "Версия I. Церквная охота/Амат, Главная Религия.md",
+    "Версия I. Церквная охота/Календарь.md",
+    "Вдохновения/Музыка/Bloodborne OST - Laurence, the First Vicar.mp3",
+    "Вдохновения/Музыка/Dark Souls III OST - Epilogue Ringed CIty (slowedreverbtone variation).mp3",
+    "Вдохновения/Музыка/Dark Souls III OST - Main Theme (slowedreverbtone variation + voice lines).mp3",
+    "Вдохновения/Арты",
+    "Вдохновения",
+    "Музыка/02. Laurence, the First Vicar.mp3"
+  ]
+}
